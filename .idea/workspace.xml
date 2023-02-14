@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1280cd33-6fb3-4ba5-b231-c3f4fcbdaeac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/articleRepo/ArticleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/articleRepo/ArticleRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/commentRepo/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/commentRepo/CommentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/userRepo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/userRepo/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/articleRepo/ArticleRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/commentRepo/CommentRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/userRepo/UserRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarnMe.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LY8MxOrqw4JskuAKqNBsHCddvi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/Moyinoluwa Michael/IdeaProjects/yarnMe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="data.repositories.userRepo" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.repositories.commentRepo" />
+      <recent name="data.repositories.articleRepo" />
+      <recent name="data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CommentRepositoryImplTest">
+    <configuration name="ArticleRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.articleRepo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories.articleRepo" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.articleRepo.ArticleRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleRepositoryImplTest.saveOneUserArticle_findArticleByUserIdAndArticleIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.articleRepo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories.articleRepo" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.articleRepo.ArticleRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneUserArticle_findArticleByUserIdAndArticleIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleRepositoryImplTest.saveTwoArticlesForUserX_andSaveOneArticleForUserY_deleteOneArticleForUserX_userXArticleCountIsOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.articleRepo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories.articleRepo" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.articleRepo.ArticleRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveTwoArticlesForUserX_andSaveOneArticleForUserY_deleteOneArticleForUserX_userXArticleCountIsOneTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.commentRepo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories.commentRepo" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.commentRepo.CommentRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest.saveOneCommentForArticleXAndOneCommentForArticleY_findArticleYCommentByUserId_ArticleIdAndCommentIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.commentRepo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories.commentRepo" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.commentRepo.CommentRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneCommentForArticleXAndOneCommentForArticleY_findArticleYCommentByUserId_ArticleIdAndCommentIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommentRepositoryImplTest" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest.saveOneCommentForArticleXAndOneCommentForArticleY_findArticleYCommentByUserId_ArticleIdAndCommentIdTest" />
+        <item itemvalue="JUnit.ArticleRepositoryImplTest" />
+        <item itemvalue="JUnit.ArticleRepositoryImplTest.saveTwoArticlesForUserX_andSaveOneArticleForUserY_deleteOneArticleForUserX_userXArticleCountIsOneTest" />
+        <item itemvalue="JUnit.ArticleRepositoryImplTest.saveOneUserArticle_findArticleByUserIdAndArticleIdTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1280cd33-6fb3-4ba5-b231-c3f4fcbdaeac" name="Changes" comment="" />
+      <created>1676036614520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676036614520</updated>
+      <workItem from="1676036616491" duration="6967000" />
+      <workItem from="1676046378183" duration="3668000" />
+      <workItem from="1676181232665" duration="4235000" />
+      <workItem from="1676187886433" duration="3670000" />
+      <workItem from="1676319564932" duration="17714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
